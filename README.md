@@ -1,10 +1,11 @@
 # Vibe Coding Workshop Project
 
 ## Project Description
-[EDIT THIS SECTION: Briefly describe your application idea here]
+Create a template and make a very simple to do app.
 
 ## Features
-[EDIT THIS SECTION: List the main features your app will include]
+* Basic node js template
+* To-do components that can add, check, and delete items
 
 ## Tech Stack
 - Next.js with App Router
